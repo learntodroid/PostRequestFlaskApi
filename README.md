@@ -6,6 +6,6 @@ pip install -U Flask
 
 set FLASK_APP=comments.py
 
-(3) sstart the flask API
+(3) start the flask API
 
 flask run
